@@ -1,1 +1,4 @@
 SELECT titulo FROM livros;
+
+select NOME from autores
+WHERE nascimento < '1900-01-01';
